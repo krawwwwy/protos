@@ -1,4 +1,4 @@
-module sso
+module github.com/krawwwwy/protos/gen/go/sso
 
 go 1.24.4
 
