@@ -1,2 +1,2 @@
 .proto and .pb.go
-asaaa
+asaaaфывыфв
